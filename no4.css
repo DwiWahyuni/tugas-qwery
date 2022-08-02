@@ -1,0 +1,12 @@
+body {
+    background-color: pink 
+}
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+@media screen ( min-width: 577px) and (max-width: 768px){
+
+}
+    
